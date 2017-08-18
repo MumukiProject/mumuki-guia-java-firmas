@@ -5,7 +5,7 @@ class Gato {
   void peinar() {
     // ...
   }
-  void cotarUnias() {
+  void cortarUnias() {
     // ...
   }
 }
