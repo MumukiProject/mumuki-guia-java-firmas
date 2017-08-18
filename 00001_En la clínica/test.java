@@ -1,12 +1,7 @@
-class Gato {
-  void alimentar() {
-    
-  }
-  void peinar() {
-    
-  }
-  void cotarUnias() {
-    
+static void main(String[] args) {
+    Gato gardfield = new Gato();
+    ClinicaDeMascotas laClinica = new ClinicaDeMascotas();
+    laClinica.atender(gardfield, 5);
   }
 }
 
