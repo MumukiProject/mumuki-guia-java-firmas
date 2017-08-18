@@ -5,7 +5,7 @@ class ClinicaDeMascotas {
     unPaciente.cortarUnias();
   }
   
-  void atener(Gato unPaciente, int dias) {
+  void atender(Gato unPaciente, int dias) {
     atender(unPaciente);
   }
 }
