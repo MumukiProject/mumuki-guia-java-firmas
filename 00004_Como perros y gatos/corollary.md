@@ -1,0 +1,1 @@
+¡Bien! Como ves, estamos ante un nuevo tipo de sobrecarga: **misma aridad pero diferente tipo en los argumentos**. Aprendamos más sobre ésto.
