@@ -1,10 +1,22 @@
 ---
 tags: []
-layout: input_right
-editor: code
+layout: input_bottom
+editor: multiple_choice
 type: problem
 extra_visible: false
-language: 
+language: text
 teacher_info: 
 manual_evaluation: false
-choices: []
+choices:
+- value: atender(Gato)
+  checked: true
+- value: atender(Mascota)
+  checked: false
+- value: atender(Perro)
+  checked: true
+- value: atender
+  checked: false
+- value: internar
+  checked: false
+- value: internar(Gato, int)
+  checked: true
