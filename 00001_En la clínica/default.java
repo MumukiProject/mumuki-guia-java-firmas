@@ -6,7 +6,9 @@ class ClinicaDeMascotas {
   }
   
   void atender(Gato unPaciente, int dias) {
-    atender(unPaciente);
+    IntStream
+      .range(1, dias)
+      .forEach(dia -> atender(unPaciente));
   }
 }
 
