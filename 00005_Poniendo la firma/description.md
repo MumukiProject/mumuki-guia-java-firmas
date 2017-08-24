@@ -1,4 +1,4 @@
-Llegó la hora de decirte la verdad :scream:: las firmas en un lenguaje de objetos con tipado estático como Java se componen no sólo del nombre y aridad del método, sino también del tipo de los parámetros. Por ejemplo, si tenemos el siguiente código... 
+Llegó la hora de decirte la verdad :scream:: las firmas no sólo están compuestas por el nombre y aridad del método, sino también por el tipo de los parámetros. Por ejemplo, si tenemos el siguiente código... 
 
 ```java
 class CamionDeMudanzas {
@@ -21,6 +21,6 @@ class CamionDeMudanzas {
 3. `cargar(Colchon)`
 
 > Veamos si queda claro: ¿Cuáles son las firmas de métodos de la clase `ClinicaDeMascotas`?
-> (Si no te acordás de su código, mirá la ayuda :grin:).
+> (Si no te acordás de su código, mirá la ayuda :grin:1. Item).
 
 
