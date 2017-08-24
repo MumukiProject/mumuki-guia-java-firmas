@@ -21,6 +21,6 @@ class CamionDeMudanzas {
 3. `cargar(Colchon)`
 
 > Veamos si queda claro: ¿Cuáles son las firmas de métodos de la clase `ClinicaDeMascotas`?
-> (Si no te acordás de su código, mirá la ayuda :grin:1. Item).
+> (Si no te acordás de su código, mirá la ayuda :grin:).
 
 
