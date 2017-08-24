@@ -6,3 +6,5 @@ expectations:
   inspection: Calls:correr
 - binding: atender
   inspection: Calls:alimentar
+- binding: atender
+  inspection: Uses:correr
