@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: atender
+  inspection: Calls:jugar
+- binding: atender
+  inspection: Calls:correr
+- binding: atender
+  inspection: Calls:alimentar
