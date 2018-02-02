@@ -15,9 +15,9 @@ Pero ahora quieren extenderlo para que también sea posible internar al minino d
 ```java
 class EjemploDeUso {
   static void main(String[] args) {
-    Gato gardfield = new Gato();
+    Gato garfield = new Gato();
     ClinicaDeMascotas laClinica = new ClinicaDeMascotas();
-    laClinica.atender(gardfield, 5);
+    laClinica.atender(garfield, 5);
   }
 }
 ```
