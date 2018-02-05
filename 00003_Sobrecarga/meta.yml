@@ -1,8 +1,17 @@
 ---
 tags: []
 layout: input_bottom
-editor: code
-type: reading
+editor: multiple_choice
+type: problem
 extra_visible: false
+language: text
 manual_evaluation: false
-choices: []
+choices:
+- value: "`imprimir`"
+  checked: false
+- value: "`cambiarCartucho`"
+  checked: true
+- value: "`agregarHojasA4`"
+  checked: false
+- value: "`agregarHojasOficio`"
+  checked: false
