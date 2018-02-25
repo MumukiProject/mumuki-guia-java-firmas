@@ -4,7 +4,7 @@ NumeroInternacional numeroInternacional = new NumeroInternacional();
 Telefono telefono = new Telefono();
 
 @Test
-public void el_costo_de_una_llamada_local_es_de_0.02() {
+public void el_costo_de_una_llamada_local_es_de_dos_centavos() {
   Assert.assertEquals(2, telefono.costoPorLlamar(numeroLocal, 100));
 }
 
