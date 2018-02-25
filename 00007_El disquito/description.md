@@ -6,4 +6,4 @@ El nivel de maldad de este lugar es muy alto: priorizan la atención según el t
 
 Y si quien llama es un `ClientePremium`, el servicio es casi instantáneo: le dicen `"Uno de nuestros operadores lo atenderá al instante"`.
 
-> Agregá las implementaciones de `atenderLlamado`, que devuelve un string. ¡Ya definimos a los tres tipos de cliente!
+> Agregá las implementaciones de `atenderLlamado`, que devuelve un texto de tipo `String`. ¡Ya definimos a los tres tipos de cliente!
