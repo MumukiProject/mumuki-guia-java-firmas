@@ -6,15 +6,15 @@ Por ejemplo, el método `costoPorLlamar` calcula cuánto cuesta cada llamada dep
 
 ```java
 class Telefono {
-  double costoPorLlamar(NumeroLocal numeroLocal, double segundos) {
+  double costoPorLlamar(NumeroLocal numeroLocal, int segundos) {
     return (0.02 * segundos);
   }
   
-  double costoPorLlamar(NumeroNacional numeroNacional, double segundos) {
+  double costoPorLlamar(NumeroNacional numeroNacional, int segundos) {
     return (0.07 * segundos);
   }
   
-  double costoPorLlamar(NumeroInternacional numeroInternacional, double segundos) {
+  double costoPorLlamar(NumeroInternacional numeroInternacional, int segundos) {
     return (0.13 * segundos);
   }
 }
