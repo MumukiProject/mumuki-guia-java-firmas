@@ -11,7 +11,7 @@ public void un_visitante_nacional_recibe_un_folleto() {
 @Test
 public void el_folleto_que_recibe_un_visitante_nacional_esta_en_espaniol() {
   museo.cobrarEntrada(visitanteNacional);
-  Assert.assertTrue("español", visitanteNacional.folleto().idioma());
+  Assert.assertEquals("español", visitanteNacional.folleto().idioma());
 }
 
 @Test
