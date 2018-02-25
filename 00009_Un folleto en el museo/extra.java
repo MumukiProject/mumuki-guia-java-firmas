@@ -1,11 +1,11 @@
 class Folleto {
-  string idioma;
+  String idioma;
   
-  Folleto(queIdioma) {
+  Folleto(String queIdioma) {
     idioma = queIdioma;
   }
   
-  string idioma() {
+  String idioma() {
     return idioma;
   }
 }
