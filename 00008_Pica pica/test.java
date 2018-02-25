@@ -1,3 +1,5 @@
+AtaqueElectrico ataqueElectrico = new AtaqueElectrico();
+
 @Test
 public void un_ataque_electrico_no_es_super_efectivo_contra_un_monstruito_fuego() {
   Assert.assertFalse(ataqueElectrico.esSuperEfectivo(new MonstruitoFuego()));
