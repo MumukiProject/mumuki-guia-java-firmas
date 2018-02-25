@@ -28,7 +28,7 @@ class Visitante {
     tieneFolleto = true;
   }
   
-  boolean tieneFolleto {
+  boolean tieneFolleto() {
     return tieneFolleto;
   }
 }
