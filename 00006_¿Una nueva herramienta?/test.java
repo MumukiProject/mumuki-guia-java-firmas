@@ -14,6 +14,6 @@ public void el_costo_de_una_llamada_nacional_es_de_siete_centavos() {
 }
 
 @Test
-public void el_costo_de_una_llamada_internnacional_es_de_trece_centavos() {
+public void el_costo_de_una_llamada_internacional_es_de_trece_centavos() {
   Assert.assertEquals(13, telefono.costoPorLlamar(numeroInternacional, 100), 0);
 }
