@@ -19,6 +19,6 @@ class Remera {
 
 class Pantalon {
   boolean combinaCon(Remera unaRemera) {
-    return unaRemera.color() == "rojo"
+    return unaRemera.color() == "rojo";
   }
 }
