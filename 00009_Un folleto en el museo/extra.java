@@ -31,6 +31,10 @@ class Visitante {
   boolean tieneFolleto() {
     return tieneFolleto;
   }
+  
+  Folleto folleto() {
+    return folleto;
+  }
 }
 
 class VisitanteNacional extends Visitante {

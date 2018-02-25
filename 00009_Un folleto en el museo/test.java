@@ -1,4 +1,4 @@
-MuseoDeCienciasNaturales museo = new Museo();
+MuseoDeCienciasNaturales museo = new MuseoDeCienciasNaturales();
 VisitanteNacional visitanteNacional = new VisitanteNacional();
 VisitanteExtranjero visitanteExtranjero = new VisitanteExtranjero();
 
