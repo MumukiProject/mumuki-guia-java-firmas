@@ -15,7 +15,7 @@ class Visitante {
   boolean tieneFolleto;
   Folleto folleto;
   
-  void pagar(unMonto) {
+  void pagar(int unMonto) {
     pago = unMonto;
   }
   
