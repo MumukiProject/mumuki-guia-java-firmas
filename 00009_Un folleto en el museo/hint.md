@@ -1,0 +1,1 @@
+¿Qué significa que reciban un nuevo folleto? ¿Acaso quizá haya que **instanciar** uno nuevo cada vez? :wink:
