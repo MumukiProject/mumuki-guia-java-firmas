@@ -9,7 +9,7 @@ public void un_visitante_nacional_recibe_un_folleto() {
 }
 
 @Test
-public void el_folleto_que_recibe_un_visitante_nacional_esta_en_espaniol() {
+public void el_folleto_que_recibe_un_visitante_nacional_esta_en_español() {
   museo.cobrarEntrada(visitanteNacional);
   Assert.assertEquals("español", visitanteNacional.folleto().idioma());
 }
