@@ -2,7 +2,7 @@ Quizá notaste que muchos de los ejemplos y ejercicios de esta guía se podrían
 
 En lugar de sobrecargar un método para que sus múltiples implementaciones reciban por parámetro distintos tipos de objeto, podemos aprovechar una interfaz (¡o superclase!) común y definir un único método.
 
-Por ejemplo, el método `costoPorLlamar` calcula cuánto cuesta cada llamada dependiendo si la llamada es local, nacional o internacional: :iphone:
+Por ejemplo, el método `costoPorLlamar` calcula cuánto cuesta cada llamada dependiendo si la llamada es local, nacional o internacional, sobrecargando como hacíamos hasta ahora: :iphone:
 
 ```java
 class Telefono {
