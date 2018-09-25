@@ -1,1 +1,1 @@
-¿Qué significa que reciban un nuevo folleto? ¿Acaso quizá haya que **instanciar** uno nuevo cada vez? :wink:
+¿Qué significa que reciban un nuevo folleto? ¿Acaso quizá haya que **instanciar** uno nuevo cada vez que se cobra la entrada? :wink:

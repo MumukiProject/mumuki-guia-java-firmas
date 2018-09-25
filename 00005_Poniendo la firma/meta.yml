@@ -19,3 +19,4 @@ choices:
   checked: false
 - value: internar(Gato, int)
   checked: true
+name: Poniendo la firma
