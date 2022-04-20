@@ -8,4 +8,4 @@ void atender(Perro unPerro) {
   // etc...
 }
 ```
-> ¿Funcionará? Agregá a tu solución éste método y completalo. Nosotros ya implementamos la clase `Perro`, que entiende los mensajes `alimentar`, `jugar` y `correr`. 
+> ¿Funcionará? Agregá a tu solución éste método y completalo. Ya implementamos por vos la clase `Perro`, que entiende los mensajes `alimentar`, `jugar` y `correr`. 

@@ -1,8 +1,11 @@
 ---
 expectations:
-- binding: atender
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: atender
   inspection: Calls:jugar
-- binding: atender
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: atender
   inspection: Calls:correr
-- binding: atender
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: atender
   inspection: Calls:alimentar
